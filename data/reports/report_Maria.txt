@@ -1,0 +1,16 @@
+🧾 Relatório de Maria
+Entrou nos canais: Desenvolvedores
+Criou canais: Desenvolvedores
+
+📤 Mensagens enviadas:
+  - [06:11:18] (pública) para canal Desenvolvedores: "Testando mensagens automáticas"
+  - [06:11:21] (privada) para Arthur: "Mensagem de teste"
+  - [06:11:25] (pública) para canal Desenvolvedores: "Quero ir à praia"
+  - [06:11:28] (pública) para canal Desenvolvedores: "Pub/Sub funcionando!"
+  - [06:11:31] (privada) para Marcela: "Vamos jogar depois?"
+
+📥 Mensagens recebidas:
+  - [06:11:18] (Pública) de Maria em Desenvolvedores: "Testando mensagens automáticas"
+  - [06:11:20] (Pública) de Anderson em Desenvolvedores: "Bug resolvido 🎉"
+  - [06:11:25] (Pública) de Maria em Desenvolvedores: "Quero ir à praia"
+  - [06:11:28] (Pública) de Maria em Desenvolvedores: "Pub/Sub funcionando!"

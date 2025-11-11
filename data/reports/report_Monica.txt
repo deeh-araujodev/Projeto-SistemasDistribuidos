@@ -1,0 +1,16 @@
+🧾 Relatório de Monica
+Entrou nos canais: Musica
+Criou canais: Musica
+
+📤 Mensagens enviadas:
+  - [06:14:27] (pública) para canal Musica: "Bug resolvido 🎉"
+  - [06:14:30] (pública) para canal Musica: "Pub/Sub funcionando!"
+  - [06:14:34] (pública) para canal Musica: "Olá pessoal!"
+
+📥 Mensagens recebidas:
+  - [06:14:22] (Pública) de Arthur em Musica: "Vamos jogar depois?"
+  - [06:14:23] (Pública) de Eduardo em Musica: "Mensagem de teste"
+  - [06:14:27] (Pública) de Monica em Musica: "Bug resolvido 🎉"
+  - [06:14:30] (Pública) de Monica em Musica: "Pub/Sub funcionando!"
+  - [06:14:32] (Pública) de Eduardo em Musica: "Bug resolvido 🎉"
+  - [06:14:34] (Pública) de Monica em Musica: "Olá pessoal!"

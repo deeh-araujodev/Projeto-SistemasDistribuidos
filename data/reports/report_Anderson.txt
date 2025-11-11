@@ -1,0 +1,11 @@
+🧾 Relatório de Anderson
+Entrou nos canais: Corridas, Trilhas
+Criou canais: Corridas, Trilhas
+
+📤 Mensagens enviadas:
+  - [06:14:28] (pública) para canal Corridas: "Quero ir à praia"
+  - [06:14:32] (privada) para Laura: "Trabalhando no projeto 😎"
+
+📥 Mensagens recebidas:
+  - [06:14:26] (Privada) de Eduardo: "Trabalhando no projeto 😎"
+  - [06:14:28] (Pública) de Anderson em Corridas: "Quero ir à praia"

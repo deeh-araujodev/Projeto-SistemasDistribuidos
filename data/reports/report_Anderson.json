@@ -1,0 +1,928 @@
+{
+  "user": "Anderson",
+  "start_time": "2025-11-11T07:18:43.239Z",
+  "channels_joined": [
+    "Games",
+    "Musica"
+  ],
+  "sent_messages": [
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:18:55.783Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:18:58.683Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:02.252Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sonia",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:05.657Z"
+    },
+    {
+      "type": "privada",
+      "to": "Leticia",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:08.167Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:19:11.363Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:14.510Z"
+    },
+    {
+      "type": "privada",
+      "to": "Eduardo",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:18.527Z"
+    },
+    {
+      "type": "privada",
+      "to": "Leticia",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:20.897Z"
+    },
+    {
+      "type": "privada",
+      "to": "Leticia",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:22.932Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:25.997Z"
+    },
+    {
+      "type": "privada",
+      "to": "Monica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:19:28.368Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:31.735Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:19:35.746Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:38.931Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:19:41.910Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:44.569Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:47.829Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:50.441Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:19:53.286Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:55.812Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:59.299Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:03.099Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:06.052Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:09.215Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:11.632Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:14.032Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:16.598Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:20:20.224Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:23.571Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:26.892Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:20:29.523Z"
+    },
+    {
+      "type": "privada",
+      "to": "Eduardo",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:20:32.403Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:34.449Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:37.105Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:42.956Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:45.393Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:48.224Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:20:52.191Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:55.561Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:58.807Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:02.700Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:06.304Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:10.002Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:13.104Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:21:16.680Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:19.386Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:22.056Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:24.778Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:21:28.145Z"
+    },
+    {
+      "type": "privada",
+      "to": "Pedro",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:21:31.988Z"
+    },
+    {
+      "type": "privada",
+      "to": "Diana",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:34.213Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sara",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:36.425Z"
+    },
+    {
+      "type": "privada",
+      "to": "Eduardo",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:40.383Z"
+    },
+    {
+      "type": "privada",
+      "to": "Monica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:21:42.779Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:46.074Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:49.657Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sonia",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:52.580Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:56.337Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:59.583Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:22:02.187Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:04.234Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:07.401Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:11.285Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:22:13.335Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:16.128Z"
+    },
+    {
+      "type": "privada",
+      "to": "Val",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:22:19.959Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:22.202Z"
+    },
+    {
+      "type": "privada",
+      "to": "Laura",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:22:25.298Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sonia",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:28.599Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:32.039Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:34.987Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:37.928Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:41.817Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:44.504Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:46.900Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:22:49.536Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:51.582Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:54.779Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:57.690Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:23:00.051Z"
+    },
+    {
+      "type": "privada",
+      "to": "Bruno",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:23:02.218Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:23:05.037Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:23:07.254Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:23:09.319Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:23:12.545Z"
+    },
+    {
+      "type": "publica",
+      "to": "Musica",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:15.605Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:18.101Z"
+    },
+    {
+      "type": "privada",
+      "to": "Laura",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:23:23.062Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:18:58.687Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:02.256Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:26.004Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:19:35.749Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "privada",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:36.985Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:38.936Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:19:41.915Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "privada",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:42.014Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:44.573Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:47.833Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:19:53.291Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:59.304Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:03.108Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:06.056Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:09.229Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:14.036Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:16.602Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:20:20.233Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:23.575Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:26.896Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:34.453Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:37.109Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:42.962Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "privada",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:20:43.403Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:45.397Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:48.232Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:20:52.196Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:55.565Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:02.708Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:06.310Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:10.007Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:13.109Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:24.783Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:21:28.150Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:46.079Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:49.666Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:56.341Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:59.589Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:22:02.192Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:04.239Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:07.406Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:11.289Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:22.207Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:34.992Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:37.933Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:41.822Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:44.512Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:22:49.541Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:51.586Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:57.694Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:23:05.042Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:23:09.324Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:23:12.549Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Musica",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:15.609Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:18.106Z"
+    }
+  ]
+}

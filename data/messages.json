@@ -14992,5 +14992,3092 @@
     "to": "Filmes",
     "message": "Pub/Sub funcionando!",
     "timestamp": "2025-11-11T06:16:44"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Pedro",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:17:11"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:17:14"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:17:14"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:17:17"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:17:17"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:17:17"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:17:19"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:17:20"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:17:21"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:17:21"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:17:23"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:17:25"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:17:25"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:17:26"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Diana",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:17:28"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Pedro",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:17:28"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:17:30"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:17:30"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:17:31"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:17:33"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:17:33"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Pedro",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:17:34"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:17:35"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:17:36"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:17:37"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:17:39"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:17:39"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Carlos",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:17:41"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:17:42"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:17:42"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:17:45"
+  },
+  {
+    "type": "private",
+    "from": "Monica",
+    "to": "Ana",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:17:46"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:17:46"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Anderson",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:17:48"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:17:48"
+  },
+  {
+    "type": "private",
+    "from": "Monica",
+    "to": "Arthur",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:17:49"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Monica",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:17:52"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:17:52"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:17:52"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:17:55"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:17:55"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:17:56"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:17:58"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:17:58"
+  },
+  {
+    "type": "private",
+    "from": "Monica",
+    "to": "Luisa",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:17:59"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:18:00"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Laura",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:18:01"
+  },
+  {
+    "type": "private",
+    "from": "Monica",
+    "to": "Bruno",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:18:02"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:18:03"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:18:04"
+  },
+  {
+    "type": "private",
+    "from": "Monica",
+    "to": "Carlos",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:18:04"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:18:07"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:18:07"
+  },
+  {
+    "type": "private",
+    "from": "Monica",
+    "to": "Leticia",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:18:07"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:18:09"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:18:10"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Musica",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:18:10"
+  },
+  {
+    "type": "public",
+    "from": "Monica",
+    "to": "Games",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:18:13"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Filmes",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:18:13"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Sonia",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:18:13"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:18:51"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:18:54"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:18:54"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:18:55"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:18:57"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:18:58"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:18:58"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:00"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Leticia",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:19:01"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:19:02"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:19:03"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:04"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Sonia",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:19:05"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Monica",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:19:06"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:19:07"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Leticia",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:19:08"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:19:10"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:10"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Luisa",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:19:11"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:19:12"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Pedro",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:19:14"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Maria",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:14"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Carlos",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:19:15"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:19:18"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Luisa",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:19:18"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Eduardo",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:19:18"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:19:20"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Leticia",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:20"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:19:21"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Leticia",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:19:22"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Ana",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:19:23"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:24"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:25"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:26"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:19:26"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Monica",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:19:28"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:19:28"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:19:31"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:19:31"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:19:31"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:19:34"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Ana",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:19:34"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:19:35"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Anderson",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:19:36"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Val",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:37"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:19:38"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Carlos",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:19:39"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:19:39"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:19:41"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Anderson",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:42"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Luisa",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:43"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:19:44"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:44"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Bruno",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:19:46"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:47"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:19:47"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:19:49"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Carlos",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:50"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:19:51"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:19:52"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:19:53"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:19:53"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:55"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:19:55"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:19:56"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:19:57"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:19:59"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:19:59"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:20:00"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:20:02"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:20:03"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:04"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Pedro",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:05"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:20:06"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:06"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Ana",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:20:08"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:20:09"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:10"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Carlos",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:11"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Luisa",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:20:12"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Carlos",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:12"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:14"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:14"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:15"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:16"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:17"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:20:17"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:20:20"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:20:20"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Eduardo",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:21"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:22"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:23"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:24"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:25"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:26"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:28"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:29"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Maria",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:20:29"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Eduardo",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:20:32"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:32"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:20:33"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:34"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:20:35"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:20:36"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:37"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Monica",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:20:39"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:20:39"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:41"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:42"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:20:42"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Anderson",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:20:43"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:45"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Ana",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:20:46"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:20:46"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:20:48"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:20:50"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:20:52"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:20:52"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:20:52"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:20:55"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Marcela",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:20:55"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:20:56"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:58"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:20:59"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Sara",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:21:00"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:02"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:02"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Sonia",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:03"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:21:05"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Arthur",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:06"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:21:06"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Pedro",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:09"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:09"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:21:10"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Ana",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:21:11"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Marcela",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:21:11"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:13"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:21:15"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Sonia",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:21:15"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:21:16"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Val",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:21:17"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:21:17"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Ana",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:19"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Marcela",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:21:20"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:21:20"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:21:22"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Monica",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:23"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Laura",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:21:23"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:21:24"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Sara",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:26"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:21:27"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:21:28"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Bruno",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:29"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:21:30"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Pedro",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:21:31"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Maria",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:21:32"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Laura",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:21:33"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Diana",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:21:34"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Bruno",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:21:35"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:21:36"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Sara",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:36"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Val",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:38"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:21:38"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Eduardo",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:40"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:41"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Diana",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:21:41"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Monica",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:21:42"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:21:44"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:21:44"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:21:46"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Maria",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:21:46"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Val",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:47"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:21:48"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:21:49"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:21:49"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:21:52"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Sonia",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:21:52"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:21:52"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Luisa",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:21:54"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Marcela",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:21:55"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:21:56"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Sonia",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:21:56"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:21:58"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:21:59"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:21:59"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:02"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:22:02"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Luisa",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:22:02"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:04"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:22:04"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:06"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:07"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:07"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:10"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:10"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:22:11"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Luisa",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:22:13"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:22:13"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:22:13"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Luisa",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:16"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:22:16"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:22:16"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:18"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Val",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:22:19"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:22:21"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:22:21"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:22:22"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:24"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Laura",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:22:25"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:22:25"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:22:27"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Maria",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:22:28"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Sonia",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:22:28"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:22:29"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:32"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Marcela",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:32"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Maria",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:22:32"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:34"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Ana",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:35"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:36"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:37"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Luisa",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:22:38"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:38"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:41"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:22:41"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:41"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:22:44"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:22:44"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:45"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:46"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Maria",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:22:47"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:47"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:22:49"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:22:49"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:22:50"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:22:51"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:52"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:22:53"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Carlos",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:22:54"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:22:55"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Val",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:22:56"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:22:57"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:22:57"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Diana",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:22:59"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Arthur",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:23:00"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:23:00"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:23:01"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Bruno",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:23:02"
+  },
+  {
+    "type": "private",
+    "from": "Diana",
+    "to": "Eduardo",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:23:02"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:23:04"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:23:05"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:23:06"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Marcela",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:23:07"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Monica",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:23:07"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:23:08"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:23:09"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:23:10"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:23:11"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:23:12"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:23:12"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:23:15"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:23:15"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Arthur",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:23:16"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:23:18"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Games",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:23:18"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:23:19"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:23:21"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Desenvolvedores",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:23:22"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Laura",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:23:23"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Ciclistas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:23:25"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Pedro",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:23:25"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:23:25"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:23:27"
+  },
+  {
+    "type": "public",
+    "from": "Anderson",
+    "to": "Musica",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:23:28"
+  },
+  {
+    "type": "public",
+    "from": "Sonia",
+    "to": "Corridas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:23:29"
+  },
+  {
+    "type": "public",
+    "from": "Diana",
+    "to": "Resenha",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:23:31"
+  },
+  {
+    "type": "private",
+    "from": "Anderson",
+    "to": "Pedro",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:23:31"
+  },
+  {
+    "type": "private",
+    "from": "Sonia",
+    "to": "Ana",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:23:32"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:05"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:06"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:07"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:41:09"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Bruno",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:09"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:09"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:41:11"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:41:12"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:13"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:41:15"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:41:15"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:41:16"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:17"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:19"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Ana",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:20"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:41:20"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:41:22"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:24"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:41:24"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Bruno",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:41:26"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:26"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:27"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:41:28"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:41:29"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:41:29"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Pedro",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:41:31"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:41:32"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:32"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Arthur",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:41:33"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:36"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Eduardo",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:41:36"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Bruno",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:36"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:38"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:38"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:40"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Ana",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:41:40"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:41:41"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:41:43"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:41:43"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:41:44"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:46"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:41:46"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:41:48"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:41:48"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Ana",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:41:50"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Carlos",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:50"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:41:51"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:41:52"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:41:54"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:41:55"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:41:56"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:41:57"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:41:58"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:00"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:42:00"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:42:02"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:02"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:42:03"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:42:05"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Pub/Sub funcionando!",
+    "timestamp": "2025-11-11T07:42:06"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:42:06"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Luisa",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:42:08"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:42:08"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:42:09"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:42:11"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:42:12"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Laura",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:42:13"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Bruno",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:42:13"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Anderson",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:42:14"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:42:15"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Bruno",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:42:16"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:42:17"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:18"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:42:20"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:42:21"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Bruno",
+    "message": "Algu\u00e9m a\u00ed?",
+    "timestamp": "2025-11-11T07:42:23"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:42:24"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Anderson",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:42:24"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Maria",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:42:26"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Luisa",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:42:26"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Leticia",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:42:28"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Sara",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:42:29"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:42:29"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:42:31"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:42:33"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:33"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Sonia",
+    "message": "Bug resolvido \ud83c\udf89",
+    "timestamp": "2025-11-11T07:42:33"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:42:35"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:36"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:42:37"
+  },
+  {
+    "type": "private",
+    "from": "Pedro",
+    "to": "Val",
+    "message": "Enviando mais uma!",
+    "timestamp": "2025-11-11T07:42:38"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Leticia",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:42:39"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:40"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:42:42"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Mensagem de teste",
+    "timestamp": "2025-11-11T07:42:44"
+  },
+  {
+    "type": "private",
+    "from": "Laura",
+    "to": "Bruno",
+    "message": "Vamos jogar depois?",
+    "timestamp": "2025-11-11T07:42:44"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Ol\u00e1 pessoal!",
+    "timestamp": "2025-11-11T07:42:44"
+  },
+  {
+    "type": "public",
+    "from": "Eduardo",
+    "to": "Doramas",
+    "message": "Hoje est\u00e1 um dia agrad\u00e1vel!",
+    "timestamp": "2025-11-11T07:42:47"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Doramas",
+    "message": "Trabalhando no projeto \ud83d\ude0e",
+    "timestamp": "2025-11-11T07:42:47"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:42:47"
+  },
+  {
+    "type": "private",
+    "from": "Eduardo",
+    "to": "Diana",
+    "message": "Testando mensagens autom\u00e1ticas",
+    "timestamp": "2025-11-11T07:42:49"
+  },
+  {
+    "type": "public",
+    "from": "Laura",
+    "to": "Filmes",
+    "message": "Quero ir \u00e0 praia",
+    "timestamp": "2025-11-11T07:42:50"
+  },
+  {
+    "type": "public",
+    "from": "Pedro",
+    "to": "Cozinha",
+    "message": "Deus \u00e9 fiel",
+    "timestamp": "2025-11-11T07:42:51"
   }
 ]

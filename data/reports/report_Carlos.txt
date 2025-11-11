@@ -1,0 +1,30 @@
+🧾 Relatório de Carlos
+Entrou nos canais: Cozinha, Doramas
+Criou canais: Cozinha, Doramas
+
+📤 Mensagens enviadas:
+  - [06:11:13] (pública) para canal Doramas: "Pub/Sub funcionando!"
+  - [06:11:15] (pública) para canal Doramas: "Testando mensagens automáticas"
+  - [06:11:18] (pública) para canal Doramas: "Quero ir à praia"
+  - [06:11:20] (privada) para Arthur: "Bug resolvido 🎉"
+  - [06:11:24] (pública) para canal Cozinha: "Quero ir à praia"
+  - [06:11:27] (pública) para canal Doramas: "Mensagem de teste"
+  - [06:11:31] (pública) para canal Cozinha: "Deus é fiel"
+
+📥 Mensagens recebidas:
+  - [06:11:12] (Pública) de Maria em Doramas: "Enviando mais uma!"
+  - [06:11:13] (Pública) de Carlos em Doramas: "Pub/Sub funcionando!"
+  - [06:11:15] (Pública) de Carlos em Doramas: "Testando mensagens automáticas"
+  - [06:11:16] (Pública) de Maria em Doramas: "Vamos jogar depois?"
+  - [06:11:18] (Pública) de Marcela em Doramas: "Deus é fiel"
+  - [06:11:18] (Pública) de Carlos em Doramas: "Quero ir à praia"
+  - [06:11:20] (Pública) de Maria em Doramas: "Hoje está um dia agradável!"
+  - [06:11:22] (Pública) de Maria em Doramas: "Enviando mais uma!"
+  - [06:11:24] (Pública) de Marcela em Doramas: "Alguém aí?"
+  - [06:11:24] (Pública) de Carlos em Cozinha: "Quero ir à praia"
+  - [06:11:25] (Pública) de Carlos em Doramas: "Mensagem de teste"
+  - [06:11:26] (Pública) de Maria em Doramas: "Mensagem de teste"
+  - [06:11:27] (Pública) de Carlos em Doramas: "Mensagem de teste"
+  - [06:11:28] (Pública) de Carlos em Doramas: "Olá pessoal!"
+  - [06:11:31] (Pública) de Maria em Doramas: "Deus é fiel"
+  - [06:11:31] (Pública) de Carlos em Cozinha: "Deus é fiel"

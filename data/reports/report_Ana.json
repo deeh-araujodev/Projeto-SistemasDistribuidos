@@ -1,0 +1,95 @@
+{
+  "user": "Ana",
+  "start_time": "2025-11-11T05:51:20.512Z",
+  "channels_joined": [
+    "Corridas"
+  ],
+  "channels_created": [
+    "Corridas"
+  ],
+  "sent_messages": [
+    "(pública) para canal Corridas: \"Deus é fiel\"",
+    "(pública) para canal Corridas: \"Deus é fiel\"",
+    "(privada) para Diana: \"Testando mensagens automáticas\"",
+    "(pública) para canal Corridas: \"Alguém aí?\"",
+    "(pública) para canal Corridas: \"Deus é fiel\"",
+    "(privada) para Val: \"Enviando mais uma!\"",
+    "(pública) para canal Corridas: \"Olá pessoal!\"",
+    "(pública) para canal Corridas: \"Quero ir à praia\"",
+    "(privada) para Maria: \"Mensagem de teste\"",
+    "(pública) para canal Corridas: \"Vamos jogar depois?\""
+  ],
+  "received_messages": [
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T05:51:30.537Z"
+    },
+    {
+      "from": "Eduardo",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T05:51:32.259Z"
+    },
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T05:51:34.522Z"
+    },
+    {
+      "from": "Eduardo",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T05:51:37.066Z"
+    },
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T05:51:41.873Z"
+    },
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T05:51:45.415Z"
+    },
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T05:51:50.416Z"
+    },
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T05:51:53.131Z"
+    },
+    {
+      "from": "Eduardo",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T05:51:56.324Z"
+    },
+    {
+      "from": "Ana",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T05:51:59.174Z"
+    }
+  ],
+  "end_time": "2025-11-11T05:52:00.530Z"
+}

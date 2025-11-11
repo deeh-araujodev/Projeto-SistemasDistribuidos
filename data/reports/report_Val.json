@@ -1,0 +1,43 @@
+{
+  "user": "Val",
+  "start_time": "2025-11-11T06:16:31.681Z",
+  "channels_joined": [
+    "Filmes",
+    "Resenha"
+  ],
+  "channels_created": [
+    "Filmes",
+    "Resenha"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:16:41.215Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T06:16:44.572Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Val",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:16:41.218Z"
+    },
+    {
+      "from": "Bruno",
+      "type": "pública",
+      "channel": "Filmes",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:16:44.748Z"
+    }
+  ],
+  "end_time": "2025-11-11T06:16:45.313Z"
+}

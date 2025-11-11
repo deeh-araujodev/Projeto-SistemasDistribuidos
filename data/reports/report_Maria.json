@@ -1,0 +1,73 @@
+{
+  "user": "Maria",
+  "start_time": "2025-11-11T06:11:04.953Z",
+  "channels_joined": [
+    "Desenvolvedores"
+  ],
+  "channels_created": [
+    "Desenvolvedores"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T06:11:18.476Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:11:21.159Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T06:11:25.061Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:11:28.316Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T06:11:31.857Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T06:11:18.480Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T06:11:20.180Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T06:11:25.067Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:11:28.320Z"
+    }
+  ],
+  "end_time": "2025-11-11T06:11:32.276Z"
+}

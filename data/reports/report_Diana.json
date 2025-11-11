@@ -1,0 +1,963 @@
+{
+  "user": "Diana",
+  "start_time": "2025-11-11T07:18:43.429Z",
+  "channels_joined": [
+    "Ciclistas",
+    "Resenha"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:18:54.945Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:18:58.422Z"
+    },
+    {
+      "type": "privada",
+      "to": "Leticia",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:01.215Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:03.855Z"
+    },
+    {
+      "type": "privada",
+      "to": "Monica",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:06.632Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:10.079Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:12.155Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:19:15.895Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:18.060Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:20.177Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:19:23.248Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:26.211Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:19:28.686Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:31.401Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:34.446Z"
+    },
+    {
+      "type": "privada",
+      "to": "Val",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:37.654Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:19:39.684Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:43.425Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:47.306Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:19:51.068Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:19:53.137Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:56.157Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:59.277Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:02.738Z"
+    },
+    {
+      "type": "privada",
+      "to": "Pedro",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:05.339Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:08.797Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:12.491Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:14.734Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:17.837Z"
+    },
+    {
+      "type": "privada",
+      "to": "Eduardo",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:21.068Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:24.987Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:28.905Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:32.680Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:20:36.041Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:39.715Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:42.941Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:20:46.200Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:50.138Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:52.793Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:55.620Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:59.202Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sonia",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:03.138Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:06.029Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:09.639Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:21:11.865Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sonia",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:21:15.635Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:21:17.814Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:20.676Z"
+    },
+    {
+      "type": "privada",
+      "to": "Monica",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:23.247Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sara",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:26.997Z"
+    },
+    {
+      "type": "privada",
+      "to": "Bruno",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:29.114Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:32.869Z"
+    },
+    {
+      "type": "privada",
+      "to": "Bruno",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:21:35.350Z"
+    },
+    {
+      "type": "privada",
+      "to": "Val",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:38.883Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:41.501Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:44.287Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:46.460Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:48.484Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:52.156Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:54.334Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sonia",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:56.422Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:58.865Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:02.162Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:04.478Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:07.473Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:10.148Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:22:13.720Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:16.473Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:21.891Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:22:25.485Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:22:28.284Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:32.028Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:35.255Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:22:38.821Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:22:41.630Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:45.262Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:47.308Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:22:49.800Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:52.043Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:22:55.524Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:57.736Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:23:00.363Z"
+    },
+    {
+      "type": "privada",
+      "to": "Eduardo",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:23:02.739Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:23:06.317Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:23:08.633Z"
+    },
+    {
+      "type": "publica",
+      "to": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:23:11.077Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:23:15.022Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:23:18.017Z"
+    },
+    {
+      "type": "publica",
+      "to": "Resenha",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:21.951Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:18:54.949Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:18:58.425Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:03.859Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:10.087Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:12.159Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:20.182Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:26.223Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:19:28.690Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:31.405Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:19:34.450Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:19:39.688Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:47.310Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:19:51.073Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:19:53.146Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:56.163Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:59.281Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:02.742Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:14.737Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:17.841Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:24.991Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:28.909Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:32.684Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:20:36.045Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:39.720Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:42.946Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:20:50.143Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:20:52.801Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:59.206Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:09.644Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:21:17.818Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "privada",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:34.217Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:41.505Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "privada",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:21:41.522Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:44.291Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:48.489Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:52.160Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:58.870Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:02.167Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:04.485Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:07.478Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:10.156Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:22:13.725Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:16.478Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:21.898Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:22:25.490Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:32.033Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:22:41.635Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:45.267Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:22:49.805Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:22:52.047Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:22:55.529Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:57.739Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "privada",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:59.319Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:23:00.368Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:23:06.322Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:23:08.637Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Ciclistas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:23:11.085Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:23:15.026Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:23:18.022Z"
+    },
+    {
+      "from": "Diana",
+      "type": "pública",
+      "channel": "Resenha",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:21.956Z"
+    }
+  ]
+}

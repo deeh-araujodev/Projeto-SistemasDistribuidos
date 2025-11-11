@@ -1,0 +1,10 @@
+🧾 Relatório de Bruno
+Entrou nos canais: Trilhas, Filmes
+Criou canais: Trilhas, Filmes
+
+📤 Mensagens enviadas:
+  - [06:16:44] (pública) para canal Filmes: "Pub/Sub funcionando!"
+
+📥 Mensagens recebidas:
+  - [06:16:43] (Pública) de Marcela em Trilhas: "Mensagem de teste"
+  - [06:16:44] (Pública) de Bruno em Filmes: "Pub/Sub funcionando!"

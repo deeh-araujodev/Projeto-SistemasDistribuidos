@@ -1,0 +1,37 @@
+{
+  "user": "Bruno",
+  "start_time": "2025-11-11T06:16:32.212Z",
+  "channels_joined": [
+    "Trilhas",
+    "Filmes"
+  ],
+  "channels_created": [
+    "Trilhas",
+    "Filmes"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Filmes",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:16:44.734Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Marcela",
+      "type": "pública",
+      "channel": "Trilhas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:16:43.591Z"
+    },
+    {
+      "from": "Bruno",
+      "type": "pública",
+      "channel": "Filmes",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:16:44.746Z"
+    }
+  ],
+  "end_time": "2025-11-11T06:16:45.340Z"
+}

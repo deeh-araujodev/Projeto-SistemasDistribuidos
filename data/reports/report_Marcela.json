@@ -1,0 +1,34 @@
+{
+  "user": "Marcela",
+  "start_time": "2025-11-11T06:16:33.068Z",
+  "channels_joined": [
+    "Trilhas"
+  ],
+  "channels_created": [
+    "Trilhas"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Trilhas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:16:43.586Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Marcela",
+      "type": "pública",
+      "channel": "Trilhas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:16:43.590Z"
+    },
+    {
+      "from": "Val",
+      "type": "privada",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T06:16:44.576Z"
+    }
+  ],
+  "end_time": "2025-11-11T06:16:45.346Z"
+}

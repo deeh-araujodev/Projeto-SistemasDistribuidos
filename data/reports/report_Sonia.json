@@ -1,0 +1,1063 @@
+{
+  "user": "Sonia",
+  "start_time": "2025-11-11T07:18:42.878Z",
+  "channels_joined": [
+    "Corridas",
+    "Desenvolvedores"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:18:51.437Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:18:54.739Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:18:57.444Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:00.828Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:04.799Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:19:07.315Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:10.742Z"
+    },
+    {
+      "type": "privada",
+      "to": "Pedro",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:19:14.308Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:18.039Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:21.373Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:24.010Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:26.632Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:31.016Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:19:34.490Z"
+    },
+    {
+      "type": "privada",
+      "to": "Anderson",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:36.981Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:39.030Z"
+    },
+    {
+      "type": "privada",
+      "to": "Anderson",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:42.010Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:44.093Z"
+    },
+    {
+      "type": "privada",
+      "to": "Bruno",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:46.190Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:19:49.722Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:52.682Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:55.206Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:19:57.790Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:00.266Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:04.105Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:06.354Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:10.187Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:20:12.351Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:15.111Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:17.252Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:20.188Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:22.704Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:25.207Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:29.093Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:33.014Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:35.866Z"
+    },
+    {
+      "type": "privada",
+      "to": "Monica",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:39.015Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:41.081Z"
+    },
+    {
+      "type": "privada",
+      "to": "Anderson",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:20:43.394Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:20:46.389Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:52.770Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:56.634Z"
+    },
+    {
+      "type": "privada",
+      "to": "Sara",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:21:00.007Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:02.460Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:05.949Z"
+    },
+    {
+      "type": "privada",
+      "to": "Pedro",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:21:09.228Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:21:11.940Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:21:15.131Z"
+    },
+    {
+      "type": "privada",
+      "to": "Val",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:21:17.577Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:21:20.820Z"
+    },
+    {
+      "type": "privada",
+      "to": "Laura",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:21:23.409Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:27.022Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:30.839Z"
+    },
+    {
+      "type": "privada",
+      "to": "Laura",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:33.000Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:36.112Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:21:38.971Z"
+    },
+    {
+      "type": "privada",
+      "to": "Diana",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:21:41.512Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:21:44.026Z"
+    },
+    {
+      "type": "privada",
+      "to": "Val",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:47.435Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:49.544Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:52.801Z"
+    },
+    {
+      "type": "privada",
+      "to": "Marcela",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:21:55.388Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:59.297Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:02.405Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:06.393Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:10.297Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:13.479Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:16.179Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:18.884Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:21.904Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:24.188Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:27.732Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:29.948Z"
+    },
+    {
+      "type": "privada",
+      "to": "Maria",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:32.543Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:36.253Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:38.874Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:41.403Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:44.409Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:47.786Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:22:50.804Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:53.187Z"
+    },
+    {
+      "type": "privada",
+      "to": "Val",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:56.927Z"
+    },
+    {
+      "type": "privada",
+      "to": "Diana",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:59.309Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:23:01.699Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:23:04.414Z"
+    },
+    {
+      "type": "privada",
+      "to": "Monica",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:23:07.958Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:23:10.133Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:12.913Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:23:16.571Z"
+    },
+    {
+      "type": "publica",
+      "to": "Corridas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:23:19.821Z"
+    },
+    {
+      "type": "publica",
+      "to": "Desenvolvedores",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:23:22.812Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:18:51.441Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:18:54.745Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:18:57.449Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:00.831Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:04.803Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "privada",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:05.661Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:19:07.319Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:10.745Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:19:18.045Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:21.377Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:19:24.018Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:26.635Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:31.022Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:19:44.097Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:19:49.726Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:19:52.685Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:19:55.210Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:19:57.795Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:00.271Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:04.109Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:06.359Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:10.192Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:15.116Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:17.256Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:20:20.192Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:22.709Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:25.212Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:20:29.097Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:33.018Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:20:35.870Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:20:41.086Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:20:46.393Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:20:52.774Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:20:56.638Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:02.464Z"
+    },
+    {
+      "from": "Diana",
+      "type": "privada",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:21:03.142Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:21:05.953Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:21:15.140Z"
+    },
+    {
+      "from": "Diana",
+      "type": "privada",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T07:21:15.639Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:21:20.825Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:27.025Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:30.844Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:36.124Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:21:38.975Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:21:44.035Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:49.548Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "privada",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:21:52.584Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:21:52.806Z"
+    },
+    {
+      "from": "Diana",
+      "type": "privada",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:21:56.427Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:21:59.301Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:06.398Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:10.302Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:13.484Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:22:16.183Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:18.889Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:21.924Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:24.197Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:27.736Z"
+    },
+    {
+      "from": "Anderson",
+      "type": "privada",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:22:28.604Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:22:29.953Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:36.259Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:38.882Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:22:41.408Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:44.414Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T07:22:47.790Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:22:50.812Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:22:53.192Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T07:23:01.703Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:23:04.419Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:23:10.137Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:23:12.918Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Corridas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:23:19.825Z"
+    },
+    {
+      "from": "Sonia",
+      "type": "pública",
+      "channel": "Desenvolvedores",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:23:22.820Z"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+🧾 Relatório de Val
+Entrou nos canais: Filmes, Resenha
+Criou canais: Filmes, Resenha
+
+📤 Mensagens enviadas:
+  - [06:16:41] (pública) para canal Resenha: "Mensagem de teste"
+  - [06:16:44] (privada) para Marcela: "Deus é fiel"
+
+📥 Mensagens recebidas:
+  - [06:16:41] (Pública) de Val em Resenha: "Mensagem de teste"
+  - [06:16:44] (Pública) de Bruno em Filmes: "Pub/Sub funcionando!"

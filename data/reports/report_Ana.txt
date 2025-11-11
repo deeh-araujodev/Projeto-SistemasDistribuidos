@@ -1,0 +1,27 @@
+🧾 Relatório de Ana
+Entrou nos canais: Corridas
+Criou canais: Corridas
+
+📤 Mensagens enviadas:
+  - (pública) para canal Corridas: "Deus é fiel"
+  - (pública) para canal Corridas: "Deus é fiel"
+  - (privada) para Diana: "Testando mensagens automáticas"
+  - (pública) para canal Corridas: "Alguém aí?"
+  - (pública) para canal Corridas: "Deus é fiel"
+  - (privada) para Val: "Enviando mais uma!"
+  - (pública) para canal Corridas: "Olá pessoal!"
+  - (pública) para canal Corridas: "Quero ir à praia"
+  - (privada) para Maria: "Mensagem de teste"
+  - (pública) para canal Corridas: "Vamos jogar depois?"
+
+📥 Mensagens recebidas:
+  - (Pública) de Ana em Corridas: "Deus é fiel"
+  - (Pública) de Eduardo em Corridas: "Bug resolvido 🎉"
+  - (Pública) de Ana em Corridas: "Deus é fiel"
+  - (Pública) de Eduardo em Corridas: "Quero ir à praia"
+  - (Pública) de Ana em Corridas: "Alguém aí?"
+  - (Pública) de Ana em Corridas: "Deus é fiel"
+  - (Pública) de Ana em Corridas: "Olá pessoal!"
+  - (Pública) de Ana em Corridas: "Quero ir à praia"
+  - (Pública) de Eduardo em Corridas: "Testando mensagens automáticas"
+  - (Pública) de Ana em Corridas: "Vamos jogar depois?"

@@ -1,0 +1,171 @@
+{
+  "user": "Carlos",
+  "start_time": "2025-11-11T06:11:03.988Z",
+  "channels_joined": [
+    "Cozinha",
+    "Doramas"
+  ],
+  "channels_created": [
+    "Cozinha",
+    "Doramas"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Doramas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:11:13.529Z"
+    },
+    {
+      "type": "publica",
+      "to": "Doramas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T06:11:15.679Z"
+    },
+    {
+      "type": "publica",
+      "to": "Doramas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T06:11:18.445Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Bug resolvido 🎉",
+      "timestamp": "2025-11-11T06:11:20.622Z"
+    },
+    {
+      "type": "publica",
+      "to": "Cozinha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T06:11:24.419Z"
+    },
+    {
+      "type": "publica",
+      "to": "Doramas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:11:27.848Z"
+    },
+    {
+      "type": "publica",
+      "to": "Cozinha",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T06:11:31.761Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T06:11:12.488Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T06:11:13.534Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T06:11:15.686Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T06:11:16.428Z"
+    },
+    {
+      "from": "Marcela",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T06:11:18.261Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T06:11:18.451Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T06:11:20.262Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Enviando mais uma!",
+      "timestamp": "2025-11-11T06:11:22.473Z"
+    },
+    {
+      "from": "Marcela",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T06:11:24.415Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Cozinha",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T06:11:24.445Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:11:25.088Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:11:26.164Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Mensagem de teste",
+      "timestamp": "2025-11-11T06:11:27.853Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T06:11:28.453Z"
+    },
+    {
+      "from": "Maria",
+      "type": "pública",
+      "channel": "Doramas",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T06:11:31.389Z"
+    },
+    {
+      "from": "Carlos",
+      "type": "pública",
+      "channel": "Cozinha",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T06:11:31.766Z"
+    }
+  ],
+  "end_time": "2025-11-11T06:11:32.260Z"
+}

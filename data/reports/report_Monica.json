@@ -1,0 +1,203 @@
+{
+  "user": "Monica",
+  "start_time": "2025-11-11T07:17:04.580Z",
+  "channels_joined": [
+    "Games"
+  ],
+  "sent_messages": [
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:17:14.097Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:17:17.737Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:17:20.895Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:17:23.083Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:17:26.042Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:17:30.017Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:17:33.562Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:17:36.109Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:17:39.312Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:17:42.348Z"
+    },
+    {
+      "type": "privada",
+      "to": "Ana",
+      "content": "Trabalhando no projeto 😎",
+      "timestamp": "2025-11-11T07:17:46.017Z"
+    },
+    {
+      "type": "privada",
+      "to": "Arthur",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:17:49.008Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:17:52.930Z"
+    },
+    {
+      "type": "publica",
+      "to": "Games",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:17:55.846Z"
+    },
+    {
+      "type": "privada",
+      "to": "Luisa",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:17:59.363Z"
+    },
+    {
+      "type": "privada",
+      "to": "Bruno",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:18:02.167Z"
+    },
+    {
+      "type": "privada",
+      "to": "Carlos",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:18:04.730Z"
+    }
+  ],
+  "received_messages": [
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Deus é fiel",
+      "timestamp": "2025-11-11T07:17:14.100Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Quero ir à praia",
+      "timestamp": "2025-11-11T07:17:17.741Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:17:20.898Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:17:23.086Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:17:26.046Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Pub/Sub funcionando!",
+      "timestamp": "2025-11-11T07:17:30.021Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Alguém aí?",
+      "timestamp": "2025-11-11T07:17:33.566Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:17:36.113Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:17:39.316Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Hoje está um dia agradável!",
+      "timestamp": "2025-11-11T07:17:42.351Z"
+    },
+    {
+      "from": "Pedro",
+      "type": "privada",
+      "content": "Vamos jogar depois?",
+      "timestamp": "2025-11-11T07:17:52.072Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Testando mensagens automáticas",
+      "timestamp": "2025-11-11T07:17:52.933Z"
+    },
+    {
+      "from": "Monica",
+      "type": "pública",
+      "channel": "Games",
+      "content": "Olá pessoal!",
+      "timestamp": "2025-11-11T07:17:55.850Z"
+    }
+  ]
+}

@@ -1,40 +1,31 @@
-version: '3.8'
+version: "3.9"
 
 services:
   proxy:
-    build: ./part2-proxy
+    build: ./part3-proxy
     container_name: proxy
     ports:
       - "5557:5557"
       - "5558:5558"
 
   server:
-    build: ./part2-server
+    build: ./part3-server
     container_name: server
+    depends_on:
+      - proxy
     volumes:
       - ./data:/app/data
-    depends_on:
-      - proxy
-    environment:
-      - PUB_ADDRESS=tcp://proxy:5557
-      - SUB_ADDRESS=tcp://proxy:5558
-
-  client:
-    build: ./part2-client
-    depends_on:
-      - server
-      - proxy
-    deploy:
-      replicas: 2
 
   bot:
-    build: ./part2-bot  
-    volumes:           
-      - ./data:/app/data
-    depends_on:        
+    build: ./part3-bot
+    depends_on:
       - server
       - proxy
-    deploy:             
-      replicas: 8
-    stop_signal: SIGINT 
-    stop_grace_period: 10s 
+    scale: 3
+    volumes:
+      - ./data:/app/data
+
+  client:
+    build: ./part3-client
+    depends_on:
+      - server
