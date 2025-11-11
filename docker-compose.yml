@@ -1,22 +1,38 @@
 version: '3.8'
 
 services:
-  server:
-    build: ./part1-server
-    container_name: server
+  proxy:
+    build: ./part2-proxy
+    container_name: proxy
     ports:
-      - "5556:5556"
+      - "5557:5557"
+      - "5558:5558"
+
+  server:
+    build: ./part2-server
+    container_name: server
     volumes:
-      - ./part1-server/data:/app/data  # <- estava fora do serviço
+      - ./data:/app/data
+    depends_on:
+      - proxy
+    environment:
+      - PUB_ADDRESS=tcp://proxy:5557
+      - SUB_ADDRESS=tcp://proxy:5558
 
   client:
-    build: ./part1-client
-    container_name: client
+    build: ./part2-client
     depends_on:
       - server
+      - proxy
+    deploy:
+      replicas: 2
 
   bot:
-    build: ./part1-bot
-    container_name: bot
+    build: ./part2-bot
+    volumes:
+    - ./data:/usr/src/app/data
     depends_on:
       - server
+      - proxy
+    deploy:
+      replicas: 8
