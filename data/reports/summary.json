@@ -1,9 +1,21 @@
 {
-  "total_users": 0,
-  "total_reports": 0,
-  "total_messages_public": 0,
-  "total_messages_private": 0,
-  "top_channels": {},
-  "top_users": {},
-  "generated_at": "2025-11-11T05:42:56"
+  "total_users": 13,
+  "total_reports": 13,
+  "total_messages_public": 78,
+  "total_messages_private": 9,
+  "top_channels": {
+    "Doramas": 14,
+    "Musica": 12,
+    "Corridas": 10,
+    "Desenvolvedores": 4,
+    "Ciclistas": 4
+  },
+  "top_users": {
+    "Maria": 9,
+    "Eduardo": 9,
+    "Carlos": 8,
+    "Ana": 7,
+    "Monica": 6
+  },
+  "generated_at": "2025-11-11T06:16:44"
 }
