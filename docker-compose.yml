@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  server:
+    build: ./part1-server
+    container_name: server
+    ports:
+      - "5556:5556"
+    volumes:
+      - ./part1-server/data:/app/data  # <- estava fora do serviço
+
+  client:
+    build: ./part1-client
+    container_name: client
+    depends_on:
+      - server
+
+  bot:
+    build: ./part1-bot
+    container_name: bot
+    depends_on:
+      - server
