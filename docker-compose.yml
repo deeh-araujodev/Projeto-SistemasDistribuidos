@@ -28,11 +28,13 @@ services:
       replicas: 2
 
   bot:
-    build: ./part2-bot
-    volumes:
-    - ./data:/usr/src/app/data
-    depends_on:
+    build: ./part2-bot  
+    volumes:           
+      - ./data:/app/data
+    depends_on:        
       - server
       - proxy
-    deploy:
+    deploy:             
       replicas: 8
+    stop_signal: SIGINT 
+    stop_grace_period: 10s 

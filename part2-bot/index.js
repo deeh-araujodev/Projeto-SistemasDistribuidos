@@ -70,6 +70,10 @@ async function main() {
   sub.subscribe(username);
   myChannels.forEach(c => sub.subscribe(c));
 
+  // CORREÇÃO: ADICIONA UM PEQUENO DELAY APÓS TODAS AS SUBSCRIPTIONS
+  // Garante que o handshake PUB/SUB seja concluído
+  await new Promise(r => setTimeout(r, 500)); // 500ms de atraso
+
   // === RECEBIMENTO ===
   (async () => {
     for await (const [msg] of sub) {
@@ -77,6 +81,7 @@ async function main() {
       let tipo = "pública";
       let origem = "";
       let canalOuUser = "";
+      const timestamp = new Date().toISOString(); 
 
       const privado = /\[Privado de ([^\]]+)\]: (.+)/.exec(m);
       const publico = /^(\w+) \[([^\]]+)\]: (.+)/.exec(m);
@@ -90,7 +95,7 @@ async function main() {
           from: origem,
           type: tipo,
           content: privado[2],
-          timestamp: new Date().toISOString()
+          timestamp: timestamp 
         });
       } else if (publico) {
         canalOuUser = publico[1];
@@ -101,14 +106,14 @@ async function main() {
           type: tipo,
           channel: canalOuUser,
           content: publico[3],
-          timestamp: new Date().toISOString()
+          timestamp: timestamp 
         });
       } else {
         console.log(`📨 (${username}) recebeu: ${m}`);
         report.received_messages.push({
           type: "desconhecido",
           content: m,
-          timestamp: new Date().toISOString()
+          timestamp: timestamp
         });
       }
     }
@@ -123,19 +128,31 @@ async function main() {
 
       fs.writeFileSync(jsonPath, JSON.stringify(report, null, 2));
 
+      // Função auxiliar para formatar o timestamp
+      const formatTime = (isoString) => {
+        if (!isoString) return 's/hora';
+        return new Date(isoString).toLocaleTimeString('pt-BR');
+      };
+
       const txt = [
         `🧾 Relatório de ${username}`,
         `Entrou nos canais: ${report.channels_joined.join(", ")}`,
         `Criou canais: ${report.channels_created.join(", ")}`,
         ``,
         `📤 Mensagens enviadas:`,
-        ...report.sent_messages.map(m => `  - ${m}`),
+        // Mapeia o OBJETO de mensagens enviadas
+        ...report.sent_messages.map(m =>
+          m.type === "privada"
+            ? `  - [${formatTime(m.timestamp)}] (privada) para ${m.to}: "${m.content}"`
+            : `  - [${formatTime(m.timestamp)}] (pública) para canal ${m.to}: "${m.content}"`
+        ),
         ``,
         `📥 Mensagens recebidas:`,
+        // Mapeia o OBJETO de mensagens recebidas
         ...report.received_messages.map(m =>
           m.type === "privada"
-            ? `  - (Privada) de ${m.from}: "${m.content}"`
-            : `  - (Pública) de ${m.from} em ${m.channel}: "${m.content}"`
+            ? `  - [${formatTime(m.timestamp)}] (Privada) de ${m.from}: "${m.content}"`
+            : `  - [${formatTime(m.timestamp)}] (Pública) de ${m.from} em ${m.channel}: "${m.content}"`
         )
       ].join("\n");
 
@@ -157,6 +174,7 @@ async function main() {
     process.exit(0);
   });
 
+  // Atraso antes de começar a ENVIAR mensagens
   const delay = randomInt(5, 15) * 1000;
   console.log(`⏳ ${username} aguardando ${delay / 1000}s antes de enviar mensagens...`);
   await new Promise(r => setTimeout(r, delay));
@@ -171,13 +189,25 @@ async function main() {
       if (dst !== username) {
         msg = { service: "message", data: { src: username, dst, message: text } };
         console.log(`📨 (${username}) enviou mensagem privada para ${dst}`);
-        report.sent_messages.push(`(privada) para ${dst}: "${text}"`);
+        // SALVA COMO OBJETO com TIMESTAMP
+        report.sent_messages.push({
+          type: "privada",
+          to: dst,
+          content: text,
+          timestamp: new Date().toISOString()
+        });
       }
     } else {
       const ch = myChannels[randomInt(myChannels.length)];
       msg = { service: "publish", data: { user: username, channel: ch, message: text } };
       console.log(`💬 (${username}) enviou mensagem pública para canal ${ch}`);
-      report.sent_messages.push(`(pública) para canal ${ch}: "${text}"`);
+      // SALVA COMO OBJETO com TIMESTAMP
+      report.sent_messages.push({
+        type: "publica",
+        to: ch,
+        content: text,
+        timestamp: new Date().toISOString()
+      });
     }
 
     if (msg) {
